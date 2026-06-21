@@ -1,0 +1,27 @@
+# Unreal generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE files
+.vs/
+*.sln.DotSettings.user
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userosscache
+.idea/
+
+# Local logs and caches
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
