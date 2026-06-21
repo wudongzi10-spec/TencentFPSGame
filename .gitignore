@@ -40,3 +40,10 @@ progress.md
 作业实施方案.md
 PDF文档草稿.md
 UE5工程创建指南.md
+
+# Project-unrelated / submission artifacts (kept local, not in repo)
+视频录制脚本.md
+技术实现说明.docx
+/docs/
+TencentFPSDemo/Docs/
+TencentFPSDemo/README.md
